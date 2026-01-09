@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ベランダ（feat. 戦慄かなの）",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-01-09T14:05:49.720241Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベランダ feat. 戦慄かなの",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_ベランダ_feat._戦慄かなの_ヤングスキニー.txt"
+    }
+  ]
+}
